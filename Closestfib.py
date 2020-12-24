@@ -1,3 +1,4 @@
+# This function takes an integer and returns the closest fibonacci number above and below the given number
 import math
 def closestFib(n):
     golden = 0.5 + ((5**0.5) / 2)
